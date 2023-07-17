@@ -1,0 +1,55 @@
+* {
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(71, 155, 155); 
+}
+.item {
+    display: grid;
+    align-items: center;
+    width: 400px;
+    height: 500px;
+    background-color: aliceblue;
+    margin: 0px 350px;
+    border-radius: 3%;
+}
+#login {
+    background-color: aliceblue;
+    color: black;
+    border-width: 0px;
+    border-style: solid;
+    border-color: white;
+    border-image: initial; 
+}
+h1 {
+    display: block;
+    background-color: aliceblue;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.inputtext {
+    background-color: aliceblue;
+    color: black;
+    align-items: center;
+    height: 10px;
+    width: 250px;
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+}
+.submit {
+    background-color: rgb(145, 66, 219);
+    height: 20px;
+    width: 80px;
+    border-width: 0px;
+    border-style: solid;
+    border-color: white;
+    border-image: initial;
+}
+
+
+
